@@ -1,0 +1,29 @@
+h1 {
+    text-align:center;
+}
+
+p {
+    text-align:center;
+    font-style: italic;
+}
+
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 189px;
+    height: 270px;
+}
+
+th{
+    text-align: left;
+}
+
+td {
+    padding-top: 5px;
+}
+
+div {
+    margin-left: 15%;
+    margin-right: 15%;
+}
